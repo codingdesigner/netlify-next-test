@@ -67,6 +67,8 @@ export default function Home() {
           flex-direction: column;
           justify-content: center;
           align-items: center;
+          color: hotpink;
+          background: lightyellow;
         }
 
         main {
